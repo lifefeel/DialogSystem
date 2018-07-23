@@ -12,6 +12,7 @@
 * [Multi-Domain Dialogue Management Using Hierarchical Policies and Knowledge Ontology (2016.04)](https://www.lti.cs.cmu.edu/sites/default/files/ReinForest-tianchez.pdf)
 ### RL 기반 Dialog Management
 * [The Hidden Agenda User Simulation Model (2009.05)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.158.3318&rep=rep1&type=pdf)
+* [A User Simulator for Task-Completion Dialogues (2016.12)](https://arxiv.org/abs/1612.05688)
 
 ### End-to-end
 * [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning (2017.02)](https://arxiv.org/abs/1702.03274)
