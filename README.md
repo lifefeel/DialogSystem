@@ -15,7 +15,10 @@
 * [A User Simulator for Task-Completion Dialogues (2016.12)](https://arxiv.org/abs/1612.05688)
 
 ### End-to-end
-* [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning (2017.02)](https://arxiv.org/abs/1702.03274)
+* [A Network-based End-to-End Trainable Task-oriented Dialogue System (2016.04)](https://arxiv.org/abs/1604.04562) - Tsung-Hsien Wen et al.
+* [Learning End-to-End Goal-Oriented Dialog (2016.05)](https://arxiv.org/abs/1605.07683) - Antoine Bordes et al.
+* [Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning (2017.02)](https://arxiv.org/abs/1702.03274) - Jason D. Williams et al.
+* [End-to-End Task-Completion Neural Dialogue Systems (2017.03)](https://arxiv.org/abs/1703.01008) - Xiujun Li et al.
 
 ## Challenges
 * [End-To-End Task-Completion Dialogue Challenge](https://github.com/xiul-msr/e2e_dialog_challenge)
